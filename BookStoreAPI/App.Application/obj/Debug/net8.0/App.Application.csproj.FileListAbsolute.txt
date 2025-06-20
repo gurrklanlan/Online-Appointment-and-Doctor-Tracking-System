@@ -1,0 +1,15 @@
+C:\Users\GürkanMutlu\Desktop\example\BookStoreAPI\App.Application\bin\Debug\net8.0\App.Application.deps.json
+C:\Users\GürkanMutlu\Desktop\example\BookStoreAPI\App.Application\bin\Debug\net8.0\App.Application.dll
+C:\Users\GürkanMutlu\Desktop\example\BookStoreAPI\App.Application\bin\Debug\net8.0\App.Application.pdb
+C:\Users\GürkanMutlu\Desktop\example\BookStoreAPI\App.Application\bin\Debug\net8.0\App.Domain.dll
+C:\Users\GürkanMutlu\Desktop\example\BookStoreAPI\App.Application\bin\Debug\net8.0\App.Domain.pdb
+C:\Users\GürkanMutlu\Desktop\example\BookStoreAPI\App.Application\obj\Debug\net8.0\App.Application.csproj.AssemblyReference.cache
+C:\Users\GürkanMutlu\Desktop\example\BookStoreAPI\App.Application\obj\Debug\net8.0\App.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GürkanMutlu\Desktop\example\BookStoreAPI\App.Application\obj\Debug\net8.0\App.Application.AssemblyInfoInputs.cache
+C:\Users\GürkanMutlu\Desktop\example\BookStoreAPI\App.Application\obj\Debug\net8.0\App.Application.AssemblyInfo.cs
+C:\Users\GürkanMutlu\Desktop\example\BookStoreAPI\App.Application\obj\Debug\net8.0\App.Application.csproj.CoreCompileInputs.cache
+C:\Users\GürkanMutlu\Desktop\example\BookStoreAPI\App.Application\obj\Debug\net8.0\App.Appl.090A7001.Up2Date
+C:\Users\GürkanMutlu\Desktop\example\BookStoreAPI\App.Application\obj\Debug\net8.0\App.Application.dll
+C:\Users\GürkanMutlu\Desktop\example\BookStoreAPI\App.Application\obj\Debug\net8.0\refint\App.Application.dll
+C:\Users\GürkanMutlu\Desktop\example\BookStoreAPI\App.Application\obj\Debug\net8.0\App.Application.pdb
+C:\Users\GürkanMutlu\Desktop\example\BookStoreAPI\App.Application\obj\Debug\net8.0\ref\App.Application.dll

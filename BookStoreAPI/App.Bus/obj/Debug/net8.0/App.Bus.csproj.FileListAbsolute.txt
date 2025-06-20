@@ -1,0 +1,17 @@
+C:\Users\GürkanMutlu\Desktop\example\BookStoreAPI\App.Bus\obj\Debug\net8.0\App.Bus.csproj.AssemblyReference.cache
+C:\Users\GürkanMutlu\Desktop\example\BookStoreAPI\App.Bus\obj\Debug\net8.0\App.Bus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GürkanMutlu\Desktop\example\BookStoreAPI\App.Bus\obj\Debug\net8.0\App.Bus.AssemblyInfoInputs.cache
+C:\Users\GürkanMutlu\Desktop\example\BookStoreAPI\App.Bus\obj\Debug\net8.0\App.Bus.AssemblyInfo.cs
+C:\Users\GürkanMutlu\Desktop\example\BookStoreAPI\App.Bus\obj\Debug\net8.0\App.Bus.csproj.CoreCompileInputs.cache
+C:\Users\GürkanMutlu\Desktop\example\BookStoreAPI\App.Bus\bin\Debug\net8.0\App.Bus.deps.json
+C:\Users\GürkanMutlu\Desktop\example\BookStoreAPI\App.Bus\bin\Debug\net8.0\App.Bus.dll
+C:\Users\GürkanMutlu\Desktop\example\BookStoreAPI\App.Bus\bin\Debug\net8.0\App.Bus.pdb
+C:\Users\GürkanMutlu\Desktop\example\BookStoreAPI\App.Bus\bin\Debug\net8.0\App.Application.dll
+C:\Users\GürkanMutlu\Desktop\example\BookStoreAPI\App.Bus\bin\Debug\net8.0\App.Domain.dll
+C:\Users\GürkanMutlu\Desktop\example\BookStoreAPI\App.Bus\bin\Debug\net8.0\App.Application.pdb
+C:\Users\GürkanMutlu\Desktop\example\BookStoreAPI\App.Bus\bin\Debug\net8.0\App.Domain.pdb
+C:\Users\GürkanMutlu\Desktop\example\BookStoreAPI\App.Bus\obj\Debug\net8.0\App.Bus.csproj.Up2Date
+C:\Users\GürkanMutlu\Desktop\example\BookStoreAPI\App.Bus\obj\Debug\net8.0\App.Bus.dll
+C:\Users\GürkanMutlu\Desktop\example\BookStoreAPI\App.Bus\obj\Debug\net8.0\refint\App.Bus.dll
+C:\Users\GürkanMutlu\Desktop\example\BookStoreAPI\App.Bus\obj\Debug\net8.0\App.Bus.pdb
+C:\Users\GürkanMutlu\Desktop\example\BookStoreAPI\App.Bus\obj\Debug\net8.0\ref\App.Bus.dll

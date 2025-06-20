@@ -1,0 +1,11 @@
+C:\Users\GürkanMutlu\Desktop\example\BookStoreAPI\App.Domain\bin\Debug\net8.0\App.Domain.deps.json
+C:\Users\GürkanMutlu\Desktop\example\BookStoreAPI\App.Domain\bin\Debug\net8.0\App.Domain.dll
+C:\Users\GürkanMutlu\Desktop\example\BookStoreAPI\App.Domain\bin\Debug\net8.0\App.Domain.pdb
+C:\Users\GürkanMutlu\Desktop\example\BookStoreAPI\App.Domain\obj\Debug\net8.0\App.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GürkanMutlu\Desktop\example\BookStoreAPI\App.Domain\obj\Debug\net8.0\App.Domain.AssemblyInfoInputs.cache
+C:\Users\GürkanMutlu\Desktop\example\BookStoreAPI\App.Domain\obj\Debug\net8.0\App.Domain.AssemblyInfo.cs
+C:\Users\GürkanMutlu\Desktop\example\BookStoreAPI\App.Domain\obj\Debug\net8.0\App.Domain.csproj.CoreCompileInputs.cache
+C:\Users\GürkanMutlu\Desktop\example\BookStoreAPI\App.Domain\obj\Debug\net8.0\App.Domain.dll
+C:\Users\GürkanMutlu\Desktop\example\BookStoreAPI\App.Domain\obj\Debug\net8.0\refint\App.Domain.dll
+C:\Users\GürkanMutlu\Desktop\example\BookStoreAPI\App.Domain\obj\Debug\net8.0\App.Domain.pdb
+C:\Users\GürkanMutlu\Desktop\example\BookStoreAPI\App.Domain\obj\Debug\net8.0\ref\App.Domain.dll
